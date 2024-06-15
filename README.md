@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ajnawala</h1>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fpatferraggi%2Fhow-to-become-an-amazing-software-developer-things-i-wish-i-knew-when-i-started-28c5&psig=AOvVaw28Ofq3EDLgx5ryMmS5JrkS&ust=1718552348001000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjryo7D-N2GAxWkbWwGHXEfAvgQjRx6BAgAEBY
 <h3 align="center">An aspiring and curious software developer...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaajnawala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaajnawala" /> </p>
