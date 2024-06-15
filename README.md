@@ -1,7 +1,6 @@
-# ![Master Header](https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Ajnawala</h1>
 <h3 align="center">An aspiring and curious software developer...</h3>
-<img align="right" alt="Master Header" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
+<img align="right" alt="Master Header" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg" style="border-radius: 7px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaajnawala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaajnawala" /> </p>
 
