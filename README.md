@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ajnawala</h1>
 <h3 align="center">An aspiring and budding computer engineer...</h3>
-<img align="right" alt="image" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg" style="border-radius: 15px;">
+<img align="right" alt="image" width="400" src="![image](https://github.com/user-attachments/assets/c6a84f1a-f5dc-454f-a2b7-7841923fedfb)
+" style="border-radius: 15px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaajnawala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaajnawala" /> </p>
 
