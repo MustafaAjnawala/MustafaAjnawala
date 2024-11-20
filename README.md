@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ajnawala</h1>
 <h3 align="center">An aspiring and budding computer engineer...</h3>
-<img align="right" alt="image" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&psig=AOvVaw1M43q7n1YjZeBbDPkYCI5j&ust=1732210334677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCRmMC464kDFQAAAAAdAAAAABAZ" style="border-radius: 15px;">
+<img align="right" alt="image" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" style="border-radius: 15px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaajnawala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaajnawala" /> </p>
 
