@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **React, Node.JS and JAVA**
+- 🌱 I’m currently learning **Node.JS and JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MustafaAjnawala](https://github.com/MustafaAjnawala)
 
