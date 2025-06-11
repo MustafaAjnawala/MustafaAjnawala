@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaajnawala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaajnawala" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Backend & Java Development**
 
-- 🌱 I’m currently learning **Node.JS and JAVA**
+- 🌱 I’m currently learning **Node.JS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MustafaAjnawala](https://github.com/MustafaAjnawala)
+- 👨‍💻 All of my projects are available here in the repositories section [https://github.com/MustafaAjnawala](https://github.com/MustafaAjnawala)
 
 - 📫 How to reach me **https://www.linkedin.com/in/mustafa-ajnawala-556110248/**
 
