@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.JS and MongoDB**
 
-- 👨‍💻 All of my projects are available here in the repositories section [https://github.com/MustafaAjnawala](https://github.com/MustafaAjnawala)
+- 👨‍💻 All of my projects are available here in the repositories section [https://github.com/MustafaAjnawala?tab=repositories](https://github.com/MustafaAjnawala?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/mustafa-ajnawala-556110248/**
 
