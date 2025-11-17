@@ -1,19 +1,24 @@
 <img width="1280" height="502" alt="last" src="https://github.com/user-attachments/assets/d2718b57-92f2-41d1-be36-5e1050296533" />
 
 
+<div align="center">
 
-- 🔭 I’m currently working on **React, ASP.NET Core & SQL**
+<p>🔭 I’m currently working on <strong>React, ASP.NET Core & SQL</strong></p>
 
-- 🌱 I’m currently learning **Java & Spring**
+<p>🌱 I’m currently learning <strong>Java & Spring</strong></p>
 
-- 👨‍💻 All of my projects are available here in the repositories section [https://github.com/MustafaAjnawala?tab=repositories](https://github.com/MustafaAjnawala?tab=repositories)
+<p>👨‍💻 All of my projects are available here:  
+<a href="https://github.com/MustafaAjnawala?tab=repositories">My Repositories</a></p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/mustafa-ajnawala-556110248/**
+<p>📫 How to reach me:  
+<strong>https://www.linkedin.com/in/mustafa-ajnawala-556110248/</strong></p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kaOFUzJaYa-z7SVvxwTUUsUeByrTcyyf/view?usp=sharing)
+<p>📄 Know about my experiences:  
+<a href="https://drive.google.com/file/d/1kaOFUzJaYa-z7SVvxwTUUsUeByrTcyyf/view?usp=sharing">Resume</a></p>
 
-- ⚡ Fun fact **I love to collaborate and learn**
+<p>⚡ Fun fact: <strong>I love to collaborate and learn</strong></p>
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa-ajnawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-ajnawala" height="30" width="40" /></a>
