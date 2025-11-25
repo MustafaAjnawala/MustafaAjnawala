@@ -14,7 +14,8 @@
 <strong>https://www.linkedin.com/in/mustafa-ajnawala-556110248/</strong></p>
 
 <p>📄 Know about my experiences:  
-<a href="https://drive.google.com/file/d/1kaOFUzJaYa-z7SVvxwTUUsUeByrTcyyf/view?usp=sharing">Resume</a></p>
+<!-- <a href="https://drive.google.com/file/d/1kaOFUzJaYa-z7SVvxwTUUsUeByrTcyyf/view?usp=sharing">Resume</a></p> -->
+<a href="https://drive.google.com/file/d/12NO18VFC7raCALZ2tSm3-lBsUxci1b1l/view?usp=sharing">Resume</a></p>
 
 <p>⚡ Fun fact: <strong>I love to collaborate and learn</strong></p>
 
