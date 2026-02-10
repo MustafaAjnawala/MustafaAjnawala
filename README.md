@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<p>🔭 I’m currently working on <strong>React, ASP.NET Core & SQL</strong></p>
+<p>🔭 I’m currently working on <strong>Rust(Programming Language) & Web Automation libraries/crates</strong></p>
 
 <p>🌱 I’m currently learning <strong>Java & Spring</strong></p>
 
